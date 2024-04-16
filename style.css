@@ -1,0 +1,64 @@
+body {
+    background-color: #d4bbfc;
+    font-family: "Swanky and Moo Moo", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #9667e0;
+}
+
+
+.banner {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    border-radius: 3cap;
+}
+
+.rulecus {
+    background-color: #b66ee8;
+    border-color: #b675e4;
+    height: 10px;
+    border-radius: 3cap;
+    transition: 0.6s ease;
+}
+
+.rulecus:hover{
+    background-color: #ff87ab;
+    border-color: #ff5d8f;
+    transition: 0.6s ease;
+}
+
+.rounded {
+    border-radius: 2cap;
+    transition: 0.6s ease;
+}
+
+.rounded:hover {
+    scale: 105%;
+    transition: 0.6s ease;
+}
+
+.vidcontainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.description {
+    font-family: "The Girl Next Door", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.colorhov {
+    transition: 0.6s ease;
+}
+
+.colorhov:hover {
+    color: #ff5d8f;
+    transition: 0.6s ease;
+}
+
+.crt{
+    color: #f2ebfb;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
